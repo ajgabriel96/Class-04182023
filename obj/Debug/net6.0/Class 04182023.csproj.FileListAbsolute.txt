@@ -1,0 +1,15 @@
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\bin\Debug\net6.0\Class 04182023.exe
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\bin\Debug\net6.0\Class 04182023.deps.json
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\bin\Debug\net6.0\Class 04182023.runtimeconfig.json
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\bin\Debug\net6.0\Class 04182023.dll
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\bin\Debug\net6.0\Class 04182023.pdb
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.csproj.AssemblyReference.cache
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.AssemblyInfoInputs.cache
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.AssemblyInfo.cs
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.csproj.CoreCompileInputs.cache
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.dll
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\refint\Class 04182023.dll
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.pdb
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\Class 04182023.genruntimeconfig.cache
+C:\Users\ajgab\OneDrive - The University of Alabama\6. Spring 2023\MIS 321\Code\Class Code\Class 04182023\obj\Debug\net6.0\ref\Class 04182023.dll
